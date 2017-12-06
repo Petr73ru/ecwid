@@ -1,5 +1,5 @@
-# ecwid
-Ecwid demo store with my work
-
---> index.html & static folder for hosting
---> App.vue - template 
+# Ecwid
+Ecwid demo store with my work<br />
+<br />
+--> index.html & static folder for hosting<br />
+--> App.vue - template <br />
